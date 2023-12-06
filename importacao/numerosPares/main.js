@@ -1,0 +1,2 @@
+const {gets} = require ('./numerosParesArray');
+
