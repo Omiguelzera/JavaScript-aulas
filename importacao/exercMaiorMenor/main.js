@@ -2,7 +2,7 @@ const {gets} = require ('./conjuntoValores');
 
 const valor = gets();
 let maiorValor = 0;
-let menorValor = 100;
+let menorValor = gets(0);
 
 
 

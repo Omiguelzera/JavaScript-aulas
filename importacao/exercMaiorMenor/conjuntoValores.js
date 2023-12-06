@@ -16,7 +16,7 @@ Exemplo:
         
 */
 
-const conjuntoValores = [4, 100, 90, 200];
+const conjuntoValores = [30, 4, 100, 90, 200];
 
 let i = 0;
 
