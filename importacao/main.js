@@ -31,7 +31,11 @@ let maiorNumeroEncontrado = 0;
 
 for(i = 0 ; i < totalNumerosSorteados; i++){
     const numeroSorteado = gets();
+
+   
+
     if(numeroSorteado > maiorNumeroEncontrado){
+        
         maiorNumeroEncontrado = numeroSorteado;
     }
 }
