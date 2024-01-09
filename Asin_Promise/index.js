@@ -1,7 +1,9 @@
 const promessaDeUmNumeroQualquer = new Promise ((resolve, reject) => {
 
-    const numero = parseInt(Math.radom() = 100)
-    resolve(numero)
+    setTimeout(() => {
+        const numero = parseInt(Math.radom() = 100)
+        resolve(numero)
+    }, 1000);
 })
 
 
